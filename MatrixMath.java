@@ -29,7 +29,10 @@ public class MatrixMath
      */
     public int[] rowSum()
     {
-       return null;
+        System.out.println("rowSum similator bi_ bi _ bi_ bi_");
+    
+            return null;
+   
     }
     
         /**
